@@ -29,6 +29,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0189-rotate-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +49,8 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0007-reverse-integer](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
