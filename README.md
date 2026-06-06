@@ -45,6 +45,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
