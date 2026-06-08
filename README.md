@@ -29,6 +29,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -38,6 +39,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
@@ -63,11 +65,13 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
