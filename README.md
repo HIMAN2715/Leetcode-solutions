@@ -32,6 +32,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0283-move-zeroes](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0007-reverse-integer](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +64,13 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 <!---LeetCode Topics End-->
