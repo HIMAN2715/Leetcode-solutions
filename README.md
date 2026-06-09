@@ -32,6 +32,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0217-contains-duplicate](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -43,6 +44,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0217-contains-duplicate](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -70,12 +72,14 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0217-contains-duplicate](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -85,4 +89,17 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
