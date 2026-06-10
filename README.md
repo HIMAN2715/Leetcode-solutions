@@ -19,6 +19,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
@@ -26,6 +27,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -43,6 +45,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -72,6 +75,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
