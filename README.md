@@ -39,6 +39,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0189-rotate-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -123,6 +124,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | ------- | ------- |
 | [0136-single-number](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
