@@ -34,6 +34,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0088-merge-sorted-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0162-find-peak-element](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
@@ -63,6 +64,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
