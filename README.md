@@ -43,6 +43,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0260-single-number-iii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -60,6 +61,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
