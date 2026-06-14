@@ -41,6 +41,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0169-majority-element](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -91,6 +92,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0049-group-anagrams](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -137,4 +139,8 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
