@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         map<int, int> freq;
-        int count = 0;
         for (auto x : nums) {
             freq[x]++;
         }
