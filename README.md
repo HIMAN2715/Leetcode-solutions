@@ -47,6 +47,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0219-contains-duplicate-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -68,6 +69,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0217-contains-duplicate](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -78,6 +80,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String Matching
@@ -91,6 +94,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0066-plus-one](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -106,6 +110,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0219-contains-duplicate-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -147,6 +152,7 @@ LeetCode solutions in C++ focused on DSA, problem solving, and interview prepara
 | [0136-single-number](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/HIMAN2715/Leetcode-solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
